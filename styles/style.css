@@ -20,4 +20,8 @@
   font-family: var(--base-font-family, "Inter"), sans-serif;
   color: var(--accent-color, #000);
   background-color: var(--bg-color, #fff);
+  background-image: var(--bg-image, none);
+  background-size: cover;
+  background-attachment: fixed;
+  font-variation-settings: "wght" var(--main-text-font-weight, 400);
 }
