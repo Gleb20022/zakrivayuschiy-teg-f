@@ -39,7 +39,7 @@
   justify-items: center;
   justify-content: center;
   margin-block-end: 100px;
-  font-family: var(--accent-font-family, "PressStart2P"), sans-serif;
+  font-family: var(--accent-font-family, "PressStart2P"), fantasy;
   line-height: normal;
   text-transform: uppercase;
 }
@@ -161,7 +161,7 @@
   z-index: 1;
   opacity: 0.5;
   color: var(--accent-color, #000);
-  font-family: var(--accent-font-family, "PressStart2P", sans-serif);
+  font-family: var(--accent-font-family, "PressStart2P", fantasy);
   font-size: 14px;
   line-height: normal;
   text-transform: uppercase;
@@ -220,7 +220,7 @@
   z-index: 1;
   border: 2px solid var(--accent-color, #000);
   padding: 10px 35px;
-  font-family: var(--accent-font-family, "PressStart2P", sans-serif);
+  font-family: var(--accent-font-family, "PressStart2P", fantasy);
   font-size: 14px;
   text-transform: inherit;
   background-color: var(--bg-color, #fff);
@@ -283,7 +283,7 @@
   border: 2px solid var(--accent-color, #000);
   padding: 25px 30px;
   color: var(--accent-color, #000);
-  font-family: var(--accent-font-family, "PressStart2P", sans-serif);
+  font-family: var(--accent-font-family, "PressStart2P", fantasy);
   line-height: 150%;
   text-transform: uppercase;
   background-color: var(--bg-color, #fff);
